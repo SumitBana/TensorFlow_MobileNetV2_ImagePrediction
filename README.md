@@ -15,7 +15,7 @@ The Image Recognition Program is a Python script that utilizes a pre-trained mac
 
 1. Make sure you have Python installed on your system. You can download it from the official [Python website](https://www.python.org/downloads/).
 
-2. Install the required libraries using the following commands:
+2. Install the required libraries using the following commands: \n
     • pip install tensorflow
     • pip install pillow
 
