@@ -32,12 +32,12 @@ The Image Recognition Program is a Python script that utilizes a pre-trained mac
 5. The program will display the predicted object along with its confidence level.
 
 
-##Output
+# Output
 
-Used Image :
+# Used Image :
 ![Used Image :](https://github.com/SumitBana/TensorFlow_MobileNetV2_ImagePrediction/assets/142825429/a18b45f1-1a32-4ea0-9576-08b7ad6afc0c)
 
-Output Screen : 
+# Output Screen : 
 ![Output Screen :](https://github.com/SumitBana/TensorFlow_MobileNetV2_ImagePrediction/assets/142825429/1b9fb2e4-bab2-4926-9827-1693ac31d92e)
 
 
